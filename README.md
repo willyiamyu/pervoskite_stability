@@ -3,6 +3,8 @@ Weixi Yao, Seung-Jae Bang, William Yu, Jiaying Chen, Yiming Huang, Caroline Ruth
 
 Supervised by Prof. Simon Billinge
 
+Watch Youtube video here: https://www.youtube.com/watch?v=xiM2rrrJC8k&t=1s
+
 ## Project Description and Motivation
 This project is offered as an improvement over the original Li, Jacobs et. al paper 'Predicting the thermodynamic stability of perovskite oxides using machine learning models.'
 in which machine learning methods are used to approximate traditional Density Functional Theory (DFT) methods of calculating phase stability of perovskite compounds.
